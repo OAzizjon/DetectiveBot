@@ -1,0 +1,9 @@
+aiogram
+aiosqlite
+python-dotenv
+phonenumbers
+
+#💻for windows
+#pip install 'name'
+#💻for MacOS
+#pip3 install 'name'
