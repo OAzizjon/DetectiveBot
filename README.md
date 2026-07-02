@@ -88,7 +88,7 @@ DetectiveBot/
 ├── .env                      # Environment variables (bot token, admin id) — not committed
 ├── .gitignore                # Excludes .env, app.log, user_data.db, __pycache__/
 │
-├── main.py                   # Entry point — handlers & bot startup
+├── main.py                   # Core of the project
 ├── data.py                   # Database logic (aiosqlite operations)
 ├── mykeyboard.py              # Reply & inline keyboards
 ├── utils.py                   # Shared constants & logging helpers
