@@ -1,5 +1,6 @@
-<h1 align="center">DetectiveBot<sub>v1.0</sub></h1>
+<h1 align="center">DetectiveBot v1.0<sub></sub></h1>
 
+[English](README.md) | [Русский](README.ru.md)
 <p align="center">
 A Telegram bot that helps you look up information about your contacts — ID, full name, username, phone number, country, and mobile operator.
 </p>
