@@ -21,7 +21,7 @@ logging.basicConfig(
     filename="app.log",
     filemode="a",
     format="%(levelname)s - %(filename)s: %(lineno)d - %(asctime)s - %(message)s",
-    level=logging.DEBUG,
+    level=logging.INFO,
     encoding="utf-8"
 )
 
